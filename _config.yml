@@ -1,16 +1,16 @@
 # Site settings
 title:          Dylan the Data Dude
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+description:    "Dylan's Blog"
+url:            "https://dylan-kuo.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Dylan Kuo
+  url:          https://dylan-kuo.github.io
+  email:        dylan.t.kuo@gmail.com
 
 # Build settings
 markdown:       kramdown
