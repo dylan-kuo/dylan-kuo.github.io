@@ -1,40 +1,28 @@
-# Site settings
-title:          Dylan the Data Dude
-description:    "Dylan's Blog"
-url:            "https://dylan-kuo.github.io"
+# Permalinks
+permalink:      /:year-:month-:day/:title
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
-
-# Author
-author:
-  name:         Dylan Kuo
-  url:          https://dylan-kuo.github.io
-  email:        dylan.t.kuo@gmail.com
-
-# Build settings
-markdown:       kramdown
-include:
-  - _pages
+# Setup
+title:          Jihye Leee
+baseurl:        ""
+url:            "https://www.jihyeleee.com"
 
 # Assets
 sass:
   sass_dir:     _sass
-  style:        compressed
+  style:        :compressed
 
-# Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+# Build settings
+markdown:       kramdown
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+# About
+author:
+  name:         Jihye Leee
+  url:          https://jihyeleee.com/
+  email:        iam.leejihye@gmail.com  
+  github:       iamleejihye
+  twitter:      hitchhikerj
 
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/iamleejihye/iamleejihye.github.io
