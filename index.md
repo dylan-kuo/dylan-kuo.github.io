@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "Data Engineer"
 main: true
-subtitle: Digital Product Designer Jihye Leee
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
+subtitle: Data Engineer Dylan Kuo
+description: Data Engineer, who is a Data Engineer based in Boston, Massachusetts.
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
     I'm Jihye Leee,
     </h1>
-    <h1 class="intro">a Digital Product Designer.
+    <h1 class="intro">a Ｄata Engineer.
     </h1>
-    <h2 class="intro">프로덕트 디자이너 이지혜입니다.</h2>
+    <h2 class="intro">我是Dylan 一位數據工程師.</h2>
 </section>
 </div>
 {% include resume.html %}
