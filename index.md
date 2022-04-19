@@ -8,7 +8,7 @@ description: Data Engineer, who is a Data Engineer based in Boston, Massachusett
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm Dylan Kuo,
     </h1>
     <h1 class="intro">a Ｄata Engineer.
     </h1>
