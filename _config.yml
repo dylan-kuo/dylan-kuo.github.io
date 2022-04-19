@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Dylan Kuo
 baseurl:        ""
-url:            "https://www.jihyeleee.com"
+url:            "https://dylan-kuo.github.io/"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name:         Dylan Kuo
+  url:          https://dylan-kuo.github.io/
+  email:        dylan.t.kuo@gmail.com  
+  github:       dylan-kuo
+  twitter:      DylanTKuo
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/dylan-kuo/dylan-kuo.github.io
