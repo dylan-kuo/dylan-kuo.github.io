@@ -1,8 +1,9 @@
-- name: Digital Product Design
-- name: UX Design
-- name: Wireframing
-- name: Prototyping
-- name: Interaction Design
-- name: UI Animation
-- name: Copywriting
-- name: Visual Design
+- name: ETL/Data Pipeline
+- name: Data Modeling
+- name: Database Management
+- name: Data warehousing Solution
+- name: Data API
+- name: Distributed Systems
+- name: Machine Learning
+- name: Statistical Analysis
+- name: Data Visualization
