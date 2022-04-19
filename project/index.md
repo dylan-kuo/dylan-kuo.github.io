@@ -3,7 +3,7 @@ layout: default
 work: true
 main: true
 title: Selected Projects
-description: | Data Engineering | ML | Data Apps |
+description: Data Engineering  |  ML  |  Data Apps 
 project-header: true
 header-img: "img/project_bg.jpg"
 ---
