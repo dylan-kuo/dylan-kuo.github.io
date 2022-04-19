@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog"
-description: Dylan's Tech blog.
+description: Dylan, the Data Dude
 main: true
 project-header: true
 header-img: img/about.jpg
