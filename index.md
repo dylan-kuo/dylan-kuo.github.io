@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dylan the Data Guy"
+title: "Dylan the Data Dude"
 main: true
 subtitle: Data Engineer Dylan Kuo
 description: Data Engineer, who is a Data Engineer based in Boston, Massachusetts.
