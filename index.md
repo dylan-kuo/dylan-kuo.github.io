@@ -10,7 +10,7 @@ description: Data Engineer, who is a Data Engineer based in Boston, Massachusett
     <h1 class="intro">
     I'm Dylan Kuo,
     </h1>
-    <h1 class="intro">a Ｄata Engineer.
+    <h1 class="intro">a Data Engineer.
     </h1>
     <h2 class="intro">我是Dylan 一位數據工程師.</h2>
 </section>
