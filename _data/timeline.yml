@@ -1,35 +1,29 @@
-- title: Student, Estonian University of Life Sciences
-  from: September 2018
+- title: Data Engineer, Liberty Mutual
+  from: November 2020
   to: present
-  description: PhD studies in agricultural sciences. My research is focused on the evaluation of socio-economic impacts of the Common Agricultural Policy.
+  description: Built ETL data pipeline to enable Back and Middle Office Investment function (trade flows, accounting, reconciliation, reporting and automated batch scheduling workflows) for integration with Investments Book of Record.
 
-- title: Advisor, Estonian Ministry of Rural Affairs
-  from: May 2017
-  to: December 2017
-  description: Summarising policy practices and other work in the context of Estonian Presidency of the Council of the European Union
+- title: Business Intelligence Engineer, Mirai Advisory
+  from: February 2020
+  to: November 2020
+  description: Developed Data tools for testing the ETL data pipeline and approving the data quality.
 
-- title: Analyst, Estonian University of Life Sciences
-  from: February 2016
-  to: present
-  description: Involvement in various applied research projects in agricultural and rural policy
+- title: Data Science Analyst (Internship), Parquet Capital
+  from: September 2019
+  to: December 2019
+  description: Performed data analysis and research using ML/DL frameworks/tools to optimize the investment decision process.
 
-- title: Student, University of Konstanz
-  from: October 2014
-  to: February 2015
-  description: Exchange studies in politics and public administration
+- title: Software Enginner, Data Science (Internship), BU SPARK!
+  from: March 2019
+  to: August 2019
+  description: Involved in a pilot project to analyze online hate speech using data science techniques.
 
-- title: Student, University of Tartu
-  from: September 2013
-  to: June 2015
-  description: Master of Arts studies in comparative politics
+- title: Student, Boston University
+  from: January 2018
+  to: May 2020
+  description: Master of Science in Computer Science
 
-- title: Conscript, Estonian Defence Forces
-  from: July 2012
-  to: May 2013
-  description: Military service in Combat Engineer Battalion
-
-- title: Student, University of Tartu
+- title: Student, Yuan-Ze University
   from: September 2009
-  to: June 2012
-  description: Bachelor of Arts studies in government and politics
-
+  to: June 2013
+  description: Bachelor of Business Administration
