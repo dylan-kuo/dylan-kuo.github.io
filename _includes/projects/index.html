@@ -32,8 +32,9 @@
     {%- assign project_url  = project.html_url -%}
 
     {% include projects/project-card.html %}
-
-    <script>get_tools("{{ site.github.owner_name }}/{{ remote_project }}")</script>
+    <!--  If you want to show the project in github then uncomment this line
+        <script>get_tools("{{ site.github.owner_name }}/{{ remote_project }}")</script>
+    -->    
 
   {% endfor %}
 
