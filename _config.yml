@@ -1,28 +1,56 @@
-# Permalinks
-permalink:      /:year-:month-:day/:title
+# Site settings
+title               : Dylan the Data Dude
+description         : I'm not sure why but somehow you've ended up on this random personal website. This is where I post some of my thoughts, stories of my doings and goings and showcase things I create.
+baseurl             : ""
+repository          : https://github.com/dylan-kuo
 
-# Setup
-title:          Dylan Kuo
-baseurl:        ""
-url:            "https://dylan-kuo.github.io/"
+# Navbar settings
+nav_exclude:
+  - pages/404.html
+  - pages/index.md
 
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        :compressed
-
-# Build settings
-markdown:       kramdown
-
-# About
+# Author info
 author:
-  name:         Dylan Kuo
-  url:          https://dylan-kuo.github.io/
-  email:        dylan.t.kuo@gmail.com  
-  github:       dylan-kuo
-  twitter:      DylanTKuo
+  name              : Dylan Kuo
+  image             : 
+  email             : dylan.t.kuo@gmail.com
+  flickr            : 
+  github            : dylan-kuo
+  reddit            : 
+  stackoverflow     : 
+  youtube           : 
 
-# Custom vars
-version:        3.4.1
-github:
-  repo:         https://github.com/dylan-kuo/dylan-kuo.github.io
+# Posts
+permalink: /:title
+
+# Collections
+collections:
+  projects:
+    output: true
+
+# Disqus
+disqus:
+
+# Analytics
+analytics:
+  enabled: false
+  google:
+    tracking_id: 
+
+# Defaults for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+
+# Exclude from processing
+exclude:
+  - README.md
+  - "*.log"
