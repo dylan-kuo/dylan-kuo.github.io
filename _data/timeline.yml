@@ -1,12 +1,12 @@
 - title: Data Engineer, Liberty Mutual
   from: November 2020
   to: present
-  description: Built ETL data pipeline to enable Back and Middle Office Investment function (trade flows, accounting, reconciliation, reporting and automated batch scheduling workflows) for integration with Investments Book of Record.
+  description: Built ETL data pipelines to enable Back and Middle Office Investment function (trade flows, accounting, reconciliation, reporting and automated batch scheduling workflows) for integration with Investments Book of Record.
 
 - title: Business Intelligence Engineer, Mirai Advisory
   from: February 2020
   to: November 2020
-  description: Developed Data tools for testing the ETL data pipeline and approving the data quality.
+  description: Developed Data tools for testing the ETL data pipeline and improving the data quality.
 
 - title: Data Science Analyst (Internship), Parquet Capital
   from: September 2019
