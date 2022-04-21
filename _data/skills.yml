@@ -9,7 +9,7 @@
 - method: RESTful API
   tools: ["Flask", "Django"]
 - method: ETL Tools
-  tools: ["Airflow", "pandas", "SnapLogic"]
+  tools: ["Airflow", "pandas", "SnapLogic", "SSIS"]
 - method: Distributed Data Processing System
   tools: "Spark"
 - method: Analytics
