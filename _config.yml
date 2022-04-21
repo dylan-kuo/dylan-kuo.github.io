@@ -52,3 +52,4 @@ defaults:
 exclude:
   - README.md
   - "*.log"
+  
