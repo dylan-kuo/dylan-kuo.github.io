@@ -7,7 +7,7 @@ weight: 4
 
 ## Who am I?
 
-I'm a data engineer located in Boston. Here is some quick facts of me below.
+I'm Dylan, a data engineer located in Boston. Here are some quick facts of me.
 
 - I sort all my waste into 7 different bins.
 - I don't believe in anything supernatural but I do believe in coincidence.
@@ -29,7 +29,7 @@ For an overview of my skills, tools, frameworks, and methodologies that I've imp
 
 ## What my experiences look like?
 
-The timeline below provides a concise overview of my recent life, mostly regarding education and work. You can find more details in my LinkedIn page [Dylan Kuo](https://www.linkedin.com/in/dylankuo/).
+The timeline below provides a concise overview of my recent life, mostly regarding education and work. You can find more details in my [LinkedIn](https://www.linkedin.com/in/dylankuo/).
 
 <div class="row">
 {% include timeline.html %}
