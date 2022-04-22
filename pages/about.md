@@ -33,13 +33,13 @@ Here is another list of some of the things that I do or have done in my spare ti
 - Learning about the past
 - Collecting old coins
 
-## Which tools I use?
+## What Skill sets do I have?
 
-For an overview of my skills and experience, some research methods that I've implemented are listed below. As I mostly use R, some of the methods are appended with corresponding R packages and functions that I'm familiar with.
+For an overview of my skills, tools, frameworks, and methodologies that I've implemented are listed below. As I mostly use Python, SQL, and some mainstream data engineering technologies that makes me a confident data engineer.
 
 {% include skills.html %}
 
-## What have I been involved in?
+## What my experiences look like?
 
 The timeline below provides a concise overview of my recent life, mostly regarding education and work. My academic profile is available in [ETIS](https://www.etis.ee/CV/lillemets/eng).
 
