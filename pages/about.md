@@ -7,10 +7,8 @@ weight: 4
 
 ## Who am I?
 
-I'm not sure what to tell here, so below are some random facts.
+I'm a data engineer located in Boston. Here is some quick facts of me below.
 
-- I own a dozen photo cameras, along with a couple of dozen lenses. 
-- I type using [Colemak](https://colemak.com/) layout on a 61-key keyboard with blank keycaps.
 - I sort all my waste into 7 different bins.
 - I don't believe in anything supernatural but I do believe in coincidence.
 - I like the Stoic way of thinking.
@@ -18,22 +16,12 @@ I'm not sure what to tell here, so below are some random facts.
 
 ## What do I do?
 
-Here is another list of some of the things that I do or have done in my spare time. 
+Here is another list of some of the things that I do and passionate about
 
-- [Taking photographs](https://www.flickr.com/photos/lillemets), mostly landscapes
-- Developing photographic film and prints
-- Woodworking (with power tools)
-- Renovation
-- Wandering and overnighting in the wild
-- Unix desktop customization ([what?](https://www.reddit.com/r/unixporn))
-- Assemblying personal computers
-- Fountain pens and calligraphy
-- Enjoying movies from 80's and 90's
-- Playing guitar and ukulele
-- Learning about the past
-- Collecting old coins
+- I build ETL data pipelines.
+- I implement dimensional data modeling, mostly using Kimball approach. 
 
-## What Skill sets do I have?
+## What Skills I have?
 
 For an overview of my skills, tools, frameworks, and methodologies that I've implemented are listed below. As I mostly use Python, SQL, and some mainstream data engineering technologies that makes me a confident data engineer.
 
@@ -41,7 +29,7 @@ For an overview of my skills, tools, frameworks, and methodologies that I've imp
 
 ## What my experiences look like?
 
-The timeline below provides a concise overview of my recent life, mostly regarding education and work. My academic profile is available in [ETIS](https://www.etis.ee/CV/lillemets/eng).
+The timeline below provides a concise overview of my recent life, mostly regarding education and work. You can find more details in my LinkedIn page [Dylan Kuo](https://www.linkedin.com/in/dylankuo/).
 
 <div class="row">
 {% include timeline.html %}
