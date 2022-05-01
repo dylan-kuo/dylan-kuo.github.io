@@ -9,17 +9,22 @@ weight: 4
 
 I'm Dylan, a data engineer located in Boston. Here are some quick facts of me.
 
-- I sort all my waste into 7 different bins.
-- I don't believe in anything supernatural but I do believe in coincidence.
-- I like the Stoic way of thinking.
-- I use [Arch](https://www.archlinux.org/) btw. 
+- I work as a data engineer at [Liberty Mutual](https://www.libertymutual.com), a Fortune 100 company, in the US.
+- I have several years of working experience in fintech industry.
+- I enjoy data engineering and machine learning.
+- I am a big believer in collaboration and teamwork.
+- I learn new things everyday.
+- I love taking challenges because that keeps me pushing forward.
 
 ## What do I do?
 
 Here is another list of some of the things that I do and passionate about
 
-- I build ETL data pipelines.
-- I implement dimensional data modeling, mostly using Kimball approach. 
+- I build data pipelines.
+- I design data warehouse by implementing dimensional data modeling, mostly Kimball approach.
+- I optimize the existing queries, and improve data quality.
+- I develop data tools. 
+- I create dashboard & interactive data visualization.
 
 ## What Skills I have?
 
