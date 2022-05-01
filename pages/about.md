@@ -25,6 +25,8 @@ Here is another list of some of the things that I do and passionate about
 - I optimize the existing queries, and improve data quality.
 - I develop data tools. 
 - I create dashboard & interactive data visualization.
+- I serve as the link between the business world and the engineering infrastructure.
+- I partner closely with the business team to shape the product decisions.
 
 ## What Skills I have?
 
