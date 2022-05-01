@@ -44,4 +44,4 @@ The timeline below provides a concise overview of my recent life, mostly regardi
 
 I am open to opportunities for data engineer, ML enginner, or software engineer(data platform/data tools) roles.
 
-Feel free to contact me via email [dylan.t.kuo@gmail.com](dylan.t.kuo@gmail.com)
+Feel free to contact me via email [dylan.t.kuo@gmail.com](mailto:dylan.t.kuo@gmail.com)
