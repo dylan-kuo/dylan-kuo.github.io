@@ -1,12 +1,12 @@
 - method: Programming Languages
-  tools: ["Python", "Java", "SQL", "R", "HTML/CSS", "JavaScript", "PowerShell", "C#"]
+  tools: ["Python", "Java", "SQL", "R", "HTML/CSS", "JavaScript", "C#", "PowerShell", "Bash"]
 - method: Database Management
   tools: ["Snowflake", "Postgres", "Oracle", "MS SQL Server", "MySQL", "MongoDB"]
 - method: Data Warehouse Solution
-  tools: ["Data Modeling", "Snowflake", "SimCorp Dimension"]
-- method: Workflow Automation Tools
-  tools: ["Airflow", "ActiveBatch"]
-- method: RESTful API
+  tools: ["Data Modeling", "ETL", "Snowflake", "SimCorp Dimension"]
+- method: Data Orchestration 
+  tools: ["Airflow", "ActiveBatch", "Control-M"]
+- method: Data API
   tools: ["Flask", "Django"]
 - method: ETL Tools
   tools: ["Airflow", "pandas", "SnapLogic", "SSIS"]
