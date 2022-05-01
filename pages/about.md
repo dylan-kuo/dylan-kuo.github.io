@@ -28,7 +28,7 @@ Here is another list of some of the things that I do and passionate about
 
 ## What Skills I have?
 
-For an overview of my skills, tools, frameworks, and methodologies that I've implemented are listed below. As I mostly use Python, SQL, and some mainstream data engineering technologies that makes me a confident data engineer.
+For an overview of my skills, tools, frameworks, and methodologies that I've implemented are listed below.
 
 {% include skills.html %}
 
@@ -40,11 +40,7 @@ The timeline below provides a concise overview of my recent life, mostly regardi
 {% include timeline.html %}
 </div>
 
-## How did this site come to be?
+## Contact Me
 
-
-So about this site. It's mostly a portfolio but also a blog where I post anything I find worth sharing. Some of the posts contain methods that I sometimes need a quick access to ([e.g. when installing a new system](/setting_up_systemd-boot_for_arch_linux)). 
-
-This is a static site. All content is written in [markdown](https://en.wikipedia.org/wiki/Markdown) markup language in plain text. Resulting markdown files are then fused together by [Jekyll](http://jekyllrb.com/) with formatting and theming as specified by [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU) template. Well, to some extent, because I've customized the template [to my own taste](https://github.com/lillemets/lillemets.github.io). The site files are pushed to [GitHub](https://github.com/) which also takes care of building and hosting this site.
-
-Before the current design, there was [also a first version](https://www.lillemets.ee/oldsite/).
+I am open to opportunities for data engineer, ML enginner, or software engineer(data platform/data tools) roles.
+Feel free to contact me :) mailto: dylan.t.kuo@gmail.com
