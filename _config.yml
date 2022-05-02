@@ -31,9 +31,9 @@ disqus:
 
 # Analytics
 analytics:
-  enabled: false
+  enabled: true
   google:
-    tracking_id: 
+    tracking_id: G-3N397L69L8
 
 # Defaults for collections
 defaults:
