@@ -7,7 +7,7 @@ weight: 4
 
 ## Who am I?
 
-I'm Dylan, a data engineer located in Boston. Here are some quick facts of me.
+I'm Dylan, a Data Engineer located in Boston. Here are some quick facts of me.
 
 - I work as a data engineer at [Liberty Mutual](https://www.libertymutual.com), a Fortune 100 company, in the US.
 - I have several years of working experience in fintech industry.
