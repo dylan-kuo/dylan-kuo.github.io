@@ -48,6 +48,6 @@ Download my latest reusme [Dylan Kuo Resume](https://drive.google.com/file/d/1w-
 
 ## Contact Me
 
-I am open to opportunities for data engineer, ML enginner, or software engineer(data platform/data tools) roles.
+I am open to opportunities for Data Engineer, ML Enginner, or Software Engineer(Data Platform/Data Tools) roles.
 
 Feel free to contact me via email [dylan.t.kuo@gmail.com](mailto:dylan.t.kuo@gmail.com)
