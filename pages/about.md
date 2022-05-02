@@ -15,6 +15,7 @@ I'm Dylan, a Data Engineer located in Boston. Here are some quick facts of me.
 - I am a big believer in collaboration and teamwork.
 - I learn new things everyday.
 - I love taking challenges because that keeps me pushing forward.
+- I happen to have a [resume](https://drive.google.com/file/d/1w-rvMqR-AE3u-7_UOvQxrNsNXI6amhRL/view?usp=sharing) that you might be interested to check it out.
 
 ## What do I do?
 
