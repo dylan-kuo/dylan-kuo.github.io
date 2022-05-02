@@ -9,8 +9,7 @@
 <div class="card-columns m-3 mt-5">
 
   
-  <!-- Remote Projects -->
-  <!--  === If you want to show remote projects then unucomment this block ==========================
+  <!-- Remote Projects -->  
   
   {% for remote_project in page.remote_projects %}
 
@@ -38,9 +37,6 @@
     <script>get_tools("{{ site.github.owner_name }}/{{ remote_project }}")</script>       
 
   {% endfor %}
-
-  ============================================================================================= -->
-
 
   <!-- Local Projects -->
   {% for project in site.projects %}
