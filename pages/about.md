@@ -36,11 +36,15 @@ For an overview of my skills, tools, frameworks, and methodologies that I've imp
 
 ## What my experiences look like?
 
-The timeline below provides a concise overview of my recent life, mostly regarding education and work. You can find more details on my [LinkedIn](https://www.linkedin.com/in/dylankuo/).
+The timeline below provides a concise overview of my recent life, mostly regarding education and work. You can find more details on my [linkedIn](https://www.linkedin.com/in/dylankuo/).
 
 <div class="row">
 {% include timeline.html %}
 </div>
+
+## My Resume
+Download my latest reusme [Dylan Kuo Resume](https://drive.google.com/file/d/1w-rvMqR-AE3u-7_UOvQxrNsNXI6amhRL/view?usp=sharing)
+
 
 ## Contact Me
 
