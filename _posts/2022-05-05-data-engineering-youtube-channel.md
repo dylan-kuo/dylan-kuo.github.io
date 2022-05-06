@@ -6,7 +6,7 @@ category:
 image: /img/2022-05-05-data-enginnering-youtube-channel/youtube-channel.jpeg
 ---
 
-### Seattle Data Guy (Ben Rogojan)
+## Seattle Data Guy (Ben Rogojan)
 
 {% include elements/video.html id="SpaFPPByOhM" %}
 
@@ -16,21 +16,21 @@ He also has a [news letter](https://seattledataguy.substack.com/) that talks abo
 
 
 
-### Zach Wilson
+## Zach Wilson
 
 {% include elements/video.html id="YG5-0x9g0eA" %}
 
 
 
-### Andreas Kretz
+## Andreas Kretz
 
 
 
-### E-Learning Bridge
+## E-Learning Bridge
 
 
 
-### Darshil Parmar
+## Darshil Parmar
 
 
 https://medium.com/coriers/7-great-youtube-channels-to-learn-more-about-data-engineering-e957b19ad253
