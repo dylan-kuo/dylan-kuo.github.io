@@ -23,7 +23,7 @@ He also has a [Newsletter](https://seattledataguy.substack.com/) that talks abou
 
 He used to be a software enginner and data engineer at Netflix and he shares a lot of inisghts about the distributed data pipeline in both software engineering and data engineering's perspectives that always makes me excited to listen.
 
-He post a lot on his [linkedin](https://www.linkedin.com/in/eczachly/) around data engineering and the mental health. Definitely check it out and follow him.
+He posts a lot on his [linkedin](https://www.linkedin.com/in/eczachly/) around data engineering and the mental health. Definitely check it out and follow him.
 
 
 ## Andreas Kretz
@@ -36,10 +36,26 @@ He's pretty good at explaining the complex data pipeline in simple words. His [d
 
 
 
-## E-Learning Bridge
+## E-Learning Bridge (Shashank Mishra)
 
+{% include elements/video.html id="JXx6iN7MKw8" %}
 
+[Shashank Mishra](https://www.linkedin.com/in/shashank219/) is a data engineer based out of India (ex-Amazon, ex-McKinsey). One day I found his by bumping into one of his interview video with other data enginner. I really like his interview video so that I can learn from others to make sure I am on the right track as for the data engineering career.
+
+I also like Shashank sharing *a lot of* learning resources regarding the sql, database, python, cloud, cron jobs, and anything that's related to data engineering. You can also follow his roadmap, it's helpful.
 
 ## Darshil Parmar
 
+{% include elements/video.html id="AS2EyYK4x_Q" %}
 
+[Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/) is kind of new to me but I think his [youtube channel](https://www.youtube.com/channel/UCChmJrVa8kDg05JfCmxpLRw) also has a lot of leanrning resources, interviews, and tips on technical interview.
+
+
+# 
+## JOMA TECH (BONUS!)
+
+{% include elements/video.html id="vmYaAzbv9xk" %}
+
+[JOMA (actually Jonathan)](https://www.linkedin.com/in/jomamedia/) is a full-time youtuber now (he just quit his software engineer job at google. Before that he was an ex-Facebook as a data scientist). Seriously, he is not in the data engineering field but he used to share a lot of content regarding machine learning and data stuff when he was at facebook.
+
+He is so good at [programming](https://www.youtube.com/watch?v=1fPWr0d5zBE) and [actting](https://www.youtube.com/watch?v=Hv6EMd8dlQk) (wait what?) and he's the funniest guy I know in that field. Damn he's so talented that he blurred the line so well between a engineer and a comedian. 🤣🤣
