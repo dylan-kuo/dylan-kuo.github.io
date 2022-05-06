@@ -40,19 +40,19 @@ He's pretty good at explaining the complex data pipeline in simple words. His [d
 
 {% include elements/video.html id="JXx6iN7MKw8" %}
 
-[Shashank Mishra](https://www.linkedin.com/in/shashank219/) is a data engineer based out of India (ex-Amazon, ex-McKinsey). One day I found his by bumping into one of his interview video with other data enginner. I really like his interview video so that I can learn from others to make sure I am on the right track as for the data engineering career.
+[Shashank Mishra](https://www.linkedin.com/in/shashank219/) is a data engineer based out of India (ex-Amazon, ex-McKinsey). One day I found him by bumping into one of his interview video with another data enginner. I really like his interview video so that I can learn from others to make sure I am on the right track as for the data engineering career.
 
-I also like Shashank sharing *a lot of* learning resources regarding the sql, database, python, cloud, cron jobs, and anything that's related to data engineering. You can also follow his roadmap, it's helpful.
+I also like Shashank sharing a lot of learning resources regarding sql, database, python, cloud, cron jobs, and all the stuff that's related to data engineering. You can also follow his roadmap, it would be very helpful.
 
 ## Darshil Parmar
 
 {% include elements/video.html id="AS2EyYK4x_Q" %}
 
-[Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/) is kind of new to me but I think his [youtube channel](https://www.youtube.com/channel/UCChmJrVa8kDg05JfCmxpLRw) also has a lot of leanrning resources, interviews, and tips on technical interview.
+[Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/) is kind of new to me but I think his [youtube channel](https://www.youtube.com/channel/UCChmJrVa8kDg05JfCmxpLRw) also has a lot of leanrning resources, interviews, and tips on technical interview. I am expecting to see more contents from him.
 
 
 
-## JOMA TECH (BONUS!)
+## JOMA TECH (Wait.. BONUS!!)
 
 {% include elements/video.html id="vmYaAzbv9xk" %}
 
