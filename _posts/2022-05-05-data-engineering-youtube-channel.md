@@ -30,7 +30,7 @@ He post a lot topics on his [linkedin](https://www.linkedin.com/in/eczachly/) ar
 
 {% include elements/video.html id="wlWLBJukhj0" %}
 
-[Andreas Kretz](https://www.linkedin.com/in/andreas-kretz/) is the OG [data engineering youtuber](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA) for sure! and his video above is the one that got me intrigued in the data engineering world two yeas ago and that's the reason why I made a decision to become a data engineer. He's pretty good at explaining the complex data pipeline systems in simple words. He wrote a [data engineering cookbook](https://github.com/andkheret/Cookbook) two years ago and it's still defenitely worth taking a look.
+[Andreas Kretz](https://www.linkedin.com/in/andreas-kretz/) is the [OG data engineering youtuber](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA) for sure! and his video above is the one that got me intrigued in the data engineering world two yeas ago and that's the reason why I made a decision to become a data engineer. He's pretty good at explaining the complex data pipeline systems in simple words. He wrote a [data engineering cookbook](https://github.com/andkheret/Cookbook) two years ago and it's still defenitely worth taking a look.
 
 
 
