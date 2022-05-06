@@ -15,15 +15,19 @@ image: /img/2022-05-05-data-enginnering-youtube-channel/youtube-channel.jpeg
 He also has a [news letter](https://seattledataguy.substack.com/) that talks about more on the data strategy for the startup company which I think it will be helpful to shape your mindset with a broader perspective.
 
 
+
 ### Zach Wilson
 
 {% include elements/video.html id="YG5-0x9g0eA" %}
 
 
+
 ### Andreas Kretz
 
 
+
 ### E-Learning Bridge
+
 
 
 ### Darshil Parmar
