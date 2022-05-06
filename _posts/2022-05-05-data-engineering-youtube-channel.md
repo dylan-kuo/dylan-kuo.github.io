@@ -19,9 +19,18 @@ He also has a [Newsletter](https://seattledataguy.substack.com/) that talks abou
 
 {% include elements/video.html id="YG5-0x9g0eA" %}
 
+[Zach Wilson](https://www.linkedin.com/in/eczachly/) is my all time favorite! He's absolutely a superstar in the data engineering world! He has a fantastic background (ex-Facebook, ex-Netflix, and now a tech lead at Airbnb). From his [youtube channel](https://www.youtube.com/c/DatawithZach/featured) and many [interviews](https://www.youtube.com/watch?v=NWVindWhIX8&list=PLu3aHfPR4Pynlsoku-MONgOqfxG3ReV2K&index=5) he shared lot's of career advises, roadmaps, basic and advanced skills, tools, technical interviews, and mental health. 
 
+He used to be a software enginner and data engineer at Netflix and he shares a lot of inisghts about the distributed data pipeline in both software engineering and data engineering's perspectives that always makes me excited to listen.
+
+He post a lot topics on his [linkedin](https://www.linkedin.com/in/eczachly/) around data engineering and the mental health. Definitely check it out and follow him.
+re
 
 ## Andreas Kretz
+
+{% include elements/video.html id="wlWLBJukhj0" %}
+
+[Andreas Kretz](https://www.linkedin.com/in/andreas-kretz/) is the OG [data engineering youtuber](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA) for sure! and his video above is the one that got me intrigued in the data engineering world two yeas ago and that's the reason why I made a decision to become a data engineer. He's pretty good at explaining the complex data pipeline systems in simple words. He wrote a [data engineering cookbook] (https://github.com/andkheret/Cookbook) two years ago and it's defenitely worth taking a look.
 
 
 
