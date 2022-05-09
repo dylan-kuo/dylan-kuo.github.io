@@ -53,4 +53,7 @@ exclude:
   - README.md
   - "*.log"
 
-plugins: - jekyll-sitemap
+
+url: "https://dylan-kuo.github.io/"
+plugins: 
+  - jekyll-sitemap

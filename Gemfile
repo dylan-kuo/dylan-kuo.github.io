@@ -8,4 +8,4 @@ gem "listen", "~> 3.6"
 
 gem "pathutil", "~> 0.16.2"
 
-gem: jekyll-sitemap
+gem "jekyll-sitemap"
