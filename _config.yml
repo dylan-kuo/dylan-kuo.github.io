@@ -53,7 +53,7 @@ exclude:
   - README.md
   - "*.log"
 
-
+# Use Jekyll plugin to automatically generate a sitemap file
 url: "https://dylan-kuo.github.io/"
 plugins: 
   - jekyll-sitemap
