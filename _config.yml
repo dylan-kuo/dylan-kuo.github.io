@@ -3,6 +3,7 @@ title               : Dylan the Data Dude
 description         : I don't dance now I make data move. Welcome! I am Dylan, a Data Enginner located in Boston, Massachusetts. This is where I post some of my thoughts, stories of my doings and goings and showcase things I create.
 baseurl             : ""
 repository          : https://github.com/dylan-kuo
+open_new_tab        : true
 
 # Navbar settings
 nav_exclude:
